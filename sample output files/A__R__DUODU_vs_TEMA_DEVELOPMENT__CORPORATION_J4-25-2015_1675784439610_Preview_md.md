@@ -1,0 +1,427 @@
+##### **IN THE SUPERIOR COURT OF JUDICATURE IN THE SUPREME COURT ACCRA - A.D 2016**
+
+**
+
+###### **A. R. DUODU-SAKYIAMA - (Appellant)**
+
+vs.
+
+###### **TEMA DEVELOPMENT. CORPORATION - (Respondent)**
+
+**
+
+###### **DATE:** **6TH JUNE, 2016**
+
+###### **CIVIL APPEAL NO:** **J4/25/2015**
+
+###### **JUDGES:** **ANIN YEBOAH, JSC. \[PRESIDING\] BAFFOE - BONNIE), JSC. AKAMBA, JSC. APPAU, JSC. AND PWAMANG, JSC**
+
+###### **LAWYERS:** **OBENG MANU JNR.ESQ FOR THE PLAINTIFF/RESPONDENT/APPELLANT K. SARFO – AGYEKUM NYANOR ESQ. FOR THE 3RD DEFENDANTAPPELLANT /RESPONDENT**
+
+###### **JUDGMENT**
+
+* * *
+
+**<u><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Book Antiqua';">APPAU, JSC</span></u>**<u><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Book Antiqua';">.</span></u> :
+
+The Court of Appeal, on 6<sup>th</sup> December 2012, upheld an appeal against the judgment of the High
+
+Court, Tema dated 24<sup>th</sup> November 2010. Not satisfied with this decision of the Court of Appeal, the Plaintiff, who won in the trial High Court, has come before us on a further appeal for a reconsideration of his case. I re-call below the facts of the case as gathered from the evidence on record.
+
+**<u><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Book Antiqua';">Facts of the case</span></u>**
+
+The Plaintiff/respondent/appellant was an employee of the Tema Development Corporation, which is the Defendant/appellant/respondent herein. For purposes of brevity, he would simply be referred to as the ‘Appellant’ while the Defendant/appellant/respondent would assume the description ‘Respondent’.
+
+Somewhere in the middle of 1986, the Appellant, while in the employment of the Respondent, was offered a 6.19 acre land belonging to his employer for farming purposes as an agricultural tenant. The letter that conveyed the offer, which the Appellant described as a lease in his testimony in the trial High Court, was dated 26/06/1986. It is headed; “AGRO-BASED INDUSTRIAL PLOT NO. 8A S.E. (TPD/T/AGR/607).
+
+The opening paragraph of the offer letter, which the Appellant tendered in evidence in the trial High Court as Exhibit ‘A’ reads: _“It is proposed to lease to you the above-mentioned plot measuring 2.50 Ha. (6.19_ _acres) approximately along the Kpone Road on the following basis:”_ The term of the proposed lease was sixty (60) years certain, commencing from the date the Respondent granted the Appellant right of entry. The Appellant was only required to pay an annual ground rent of five thousand, eight hundred and thirty eight old cedis (c5,838.00), which is now fifty eight Ghana pesewas (GHc0.58), to the Respondent for the use of the whole land as stipulated under the terms stated in the offer letter.
+
+Paragraphs 3, 4 and 5 of the offer letter provided as follows:
+
+**_“_**_3. Your written acceptance of this offer together with the first year’s ground rent, survey and site plan fees must reach the Corporation within one calendar month from the date hereof. It must be emphasized that this offer will lapse if not accepted within the time stipulated._
+
+_4. Also, if the offer is accepted and the lessee has not commenced operations within two years, the Corporation will re-enter and re-allocate the said land._
+
+_5. As soon as we are satisfied that there is an uninterrupted and physical development of the plot for at least two consecutive years, our Legal Department will be advised to commence action on the preparation of the lease.”_
+
+Paragraph 2 also provided: _“Notwithstanding any provision contained herein, your tenancy shall be subject_ _to any new policy, rule or bye-law that may be adopted and passed by the Tema Development Corporation and, or the Government in so far as it affects or they affect the Tema Development Corporation.”_
+
+**History of the Respondent; i.e. Tema Development Corporation (TDC)**
+
+The Respondent (TDC) is a Public Corporation set up in 1952 by an Act of Parliament with the sole responsibility to plan and develop about sixty-three (63) square miles of public land and also manage the township that had been created to provide accommodation to those that would engage in economic operations in the township. It was given a 125-year lease term to manage this land area known as the Tema Acquisition Area. Currently, the Corporation functions under **L.I. 1468** of 1989. It was in line with this authority to manage the acquired land that the Respondent leased out portions of the land for Commercial and Industrial purposes, including Agriculture. The Appellant, as an employee of the Respondent, capitalised on this development and secured for himself an area of 6.19 acres for farming purposes.
+
+The records show that at the time this offer was made to the Appellant, he was the very officer of the Respondent in-charge of such lands. The title of that position which he held during this time was ‘Traditional Lands Supervisor’. Meanwhile, there is nothing on record to show that the Appellant wrote back to the Respondent accepting the terms in the offer letter as paragraph 3 of the letter quoted above provided because he did not tender in evidence during the trial any such letter. What he told the trial court was that he gave all those letters to his first lawyer Mr Kye who was deceased at the time of the trial. Neither do the records show that the Respondent at any time formalised the offer made to the Appellant with the preparation of a formal or legal lease as indicated under paragraph 5 of the letter quoted above. It is therefore not strange that the Valuers who prepared the 2005 Valuation Report that the Appellant used to support his claim in the trial High Court stated expressly in their report that they could not sight any title deed covering the 6.19 acre land showing the Appellant’s root of title to the land, aside of the offer letter referred to above. It was this offer letter which the Appellant tendered in evidence (**Exhibit** ‘**A’**) as the lease granted him by the Respondent.
+
+For describing the offer letter as the lease granted him in his testimony in the trial court, the Appellant was in effect saying that no formal lease was ever prepared and executed between him and the Respondent contrary to paragraph 5 of the offer letter. Be that as it may, documents on record show that the Appellant was indeed offered the area in question and subsequently granted right of entry. His leasehold interest in the land could therefore be better described as an equitable one.
+
+**Government directive to release a portion of the land to the original land owner**
+
+About ten (10) years after the offer or grant of the agricultural tenancy to the Appellant (i.e. in 1996), the Respondent received a directive from the Government to release or cede a portion of the acquired land to the original owners (i.e. Kpone Traditional Council) for residential purposes. Unfortunately for Appellant, the 6.19 acres that was granted to him happened to fall into this category. Consequently, the Respondent, on 27/09/1996, wrote to all those tenant farmers whose lands were affected by the re-entry (including the Appellant), directing them to cease their farming operations on the land for the said lands to be surrendered to the original owners as directed by the Government.
+
+The Respondent, as a result, re-designed 1.10 acres out of the 6.19 acres granted to the Appellant into six (6) residential plots and gave all to the Appellant free of charge for his own use. The remaining five (5) acres of land was surrendered to the Kpone Traditional Council as directed by the Government. Between the years 2000 and 2004, the Appellant, with the consent of the Respondent, sold five (5) out of the six (6) residential plots allocated to him free of charge, to three different purchasers and pocketed the proceeds. He then kept one (1) plot for his own use.
+
+On 19/06/2007; i.e. almost eleven (11) years after the surrender of the five (5) acres of land to the Kpone Traditional Council as directed by the Government; which was one of the pre-conditions for the grant of the land to the Appellant as expressly stated under paragraph 2 of the offer letter quoted above, the Appellant, who by then had retired from the services of the Respondent, dragged his former employer to the Tema High Court claiming the following reliefs:
+
+_“(a) Recovery of compensation at the recent market value as determined by the March 2005 Valuation of the 5 acres of land re-entered by the defendants or their agent;_
+
+(b) _Interest on the compensation from assessment to date of payment and;_
+
+_(c) Damages for breach of contract”._
+
+**Decision of the trial High Court**
+
+The trial High Court, on 29/10/2010, gave the Appellant judgment on the first two of his reliefs but denied him the third. The reason given for denying him the third relief was that he had been awarded compensation. The compensation was exactly the total sum assessed in the 2005 valuation report, which took account of structures Appellant allegedly had on the land at the time of the re-entry, disturbance caused by the re-entry and then the actual/market value of the five-acre land re-entered.
+
+The judge wrote; _“I award the said amount of c609, 975,000.00 i.e. GHc60, 997.50 (Sixty thousand, nine_ _hundred and ninety-seven Ghana cedis, fifty pesewas) with interest from March 2005 to date of final payment. Having been awarded compensation, the Plaintiff will not be awarded damages for breach of contract”_.
+
+Appellant was given additional costs of Three thousand Ghana cedis (**GHc3, 000.00**). According to the Entry of Judgment that was served on the Respondent, interest alone on the compensation was assessed at One hundred and seven thousand, six hundred and eight Ghana cedis, fifty-seven pesewas (**GHc107, 608.57**).
+
+**Appeal by the Respondent to the Court of Appeal**
+
+Not enthused by this judgment, the Respondent appealed against same to the Court of Appeal. The Notice of Appeal was filed on 15/12/2010. The grounds of appeal were that:
+
+_“(a) The learned trial judge erred in law in relying on a valuation report of State land which had not been certified by the Land Valuation Board._
+
+(b) _The trial judge failed to give due and proper consideration to the defendant’s case that the 1.10 acres of farmland converted to residential use and released to the Plaintiff was adequate compensation for the loss of the Plaintiff’s 6 acre farmland._
+
+_(c) The trial judge erred in relying solely on a valuation report tainted with inaccuracies._
+
+_(d)The trial judge erred in failing to take into consideration the huge sums of money realised by the Plaintiff from the sale of the plots of land released to the Plaintiff by the defendant, the value of the land having appreciated as a result of the change of use of the land from farming to residential purpose._
+
+_(e)The judgment is against the weight of evidence.”_
+
+The Respondent, in its written submissions in the first appellate court, abandoned its first ground; i.e. ground **(a)** but argued grounds **(b)**, **(c)**, **(d)** and **(e)**. It canvassed grounds **(b)** and **(e)** together followed by ground **(c)** and **(d)** separately.
+
+**Decision of the Court of Appeal**
+
+The Court of Appeal, on 06/12/2012, upheld the appeal of the Respondent and set aside entirely the judgment of the trial High Court. The last paragraph of the judgment of the Court of Appeal was as follows:
+
+_“We’ve read the whole record in this case and we are of the view that the judgment of the lower court is not maintainable. The whole judgment is flawed because it was unsupported by the evidence on record and mainly because the reasons in support of the findings are unsatisfactory. The appeal accordingly succeeds in its entirety and we set aside the decision of the High Court, Tema for the reasons given.”_
+
+The main reasons advanced by the Court of Appeal in allowing the appeal against the judgment of the trial High Court as inferred from the judgment of the Court of Appeal were that;
+
+it was wrong for the trial court to award the Appellant compensation in the sum of GHc60,997.00 (which includes the market value of the 5-acre land which the Appellant did not own), when the Respondent had already compensated the Appellant by giving him 1.10 acres out of the 6.19 acres, which was re-designed into six (6) residential plots, free of charge and, the trial court erred when it accepted wholly without any question the valuation report submitted by the Appellant when the said report lacked credibility.
+
+Part of the judgment of the Court of Appeal that questioned the propriety of the valuation report was as follows:
+
+_“In the valuation report there is included the site value which stood at GHc50,900.00 representing the value of the land. The tenant never purchased the land. He was only using the land for farming and paying the annual rent of c5,838.00. The absurdity in the report requires the owner of the land to pay the tenant the value of the land he never bought in the first place. The 1986 offer Exhibit A to the Plaintiff was the payment of the ground rent only. There was no outright sale of the land to the Plaintiff for which compensation of GHc60,997.00 was to be paid back to him as final compensation. Another absurd conclusion contained in the valuation report is the amount of GHc7,725.00 representing the expected yield of three fish ponds for a period calculated to be over 17 years. We are of the view that these absurdities undermine the validity of the whole report and in our view the report lacks credibility and ought to be rejected as such.”_
+
+The Court of appeal was of the view that the judgment of the trial High Court was against the weight of evidence since the trial judge failed to give due and proper consideration to the Respondent’s case.
+
+It is against this judgment that the Appellant is now before us requesting for a further post-mortem examination on the judgment of the Court of Appeal which he believes was flawed.
+
+**<u><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Book Antiqua';">Appellant’s appeal to this Court</span></u>**
+
+Almost three months after the Court of Appeal had delivered its judgment setting aside the judgment of the trial High Court, precisely on the 5<sup>th</sup> of March 2013, the Appellant filed a notice of appeal against the judgment. The grounds of appeal canvassed in the notice of appeal were four and the relief sought by the Appellant from this Court is that the judgment of the Court of Appeal be set aside and that of the High court dated 29<sup>th</sup> October 2010 be restored. The grounds of appeal are:
+
+The Honourable Court erred when it held that the 1.10 acre of land was compensation by the Defendant/Respondent to the Plaintiff/Appellant for the re-entry of the 5 acres by Tema Development Corporation in the absence of any evidence to that effect.
+
+The Court of Appeal erred further when it arrived at a conclusion that the Plaintiff/Respondent/Appellant manipulated the system as a former employee and allocated a large tract of land to himself (sic) is unsupported by the evidence on record at the trial.
+
+The Court of Appeal’s reasons for setting aside the valuation report (Exhibit ‘E’) upon which the trial court awarded compensation to the Plaintiff/Respondent/Appellant was totally flawed and unsupported given that the Plaintiff/Appellant had structures on the land at the time of the re-entry.
+
+The judgment is against the weight of evidence.
+
+The Appellant, in his written submissions, argued the grounds of appeal in the alphabetical order in which he arranged them above. Clearly, grounds **(a)** and **(b)** fall under the omnibus ground **(d)**; i.e. **the judgment is against the weight of evidence**.
+
+Ground **(a)** is to the effect that there is no evidence on record to show that the 1.10 acres of land granted to the Appellant was compensation for the re-entry of the five (5) acres ceded to the Kpone Traditional Council. The Court of Appeal therefore erred in coming to that conclusion.
+
+Ground **(b)** is also saying that there is no evidence on record to support the Court of Appeal’s conclusion that the Appellant manipulated the system as a former employee of the Respondent and allocated the 6.19 acres to himself. So that conclusion also was an error on the part of the Court of Appeal.
+
+Both grounds in effect suggest that the judgment of the Court of Appeal on those two issues was against the weight of evidence adduced at the trial. I have therefore decided to determine the three grounds together under the omnibus ground; i.e. **the judgment is against the weight of evidence**.
+
+Ground **(c)**, which is on the valuation report, would then follow under a different caption in that order.
+
+**Appellant’s submissions on grounds (a), (b) and (d)**
+
+On ground **(a)**, appellant submitted that there is no evidence whatsoever on record to suggest that the Respondent granted him 1.10 acres of land as compensation for the five (5) acres that was re-claimed, contrary to the finding of the Court of Appeal that there was evidence from the representative of the Respondent to that effect. He said the Respondent only introduced that assertion in a last minute amendment that was granted by the trial court but he denied that averment in his amended reply putting that issue in controversy.
+
+Appellant referred to section 12 (2) of the Evidence Act, 1975 \[NRCD 323. on the standard of proof in civil cases, which is proof on a preponderance of probabilities defined as; _“the degree of certainty of belief_ _in the mind of the tribunal of fact or the court by which it is convinced that the existence of a fact is more probable than its non-existence”._
+
+According to him, since the Appellant denied that the 1.10 acres of land that was given him was compensation, it behoved on the Respondent to lead credible evidence to establish that claim but not just to repeat that assertion under cross-examination without any corroborative evidence. He cited the cases of **MAJOLAGBE v LARBI \[1959. GLR 190** and **ZABRAMA v SEGBEDZI \[1991. 2 GLR 221** to support his contention.
+
+The cumulative holdings in the two cases cited supra are that where a party’s averment is denied by his opponent, he/she has the burden to establish that, that averment or assertion is true by leading admissible evidence from which the facts he/she asserts can properly or safely be inferred. It is not enough for the party just to mount the witness box to repeat those averments.
+
+Appellant contended that the statement that he was given 1.10 acres of land as compensation could not be justified in any way because the Respondent could not just enter (5) acres out of a total of 6.19 acres _of someone’s land of which he is in effective occupation after validly acquiring same_ and claim that 1.10 acres of it constitutes compensation for the five acres re-entered in the absence of any agreement to that effect. _{Emphasis added}_
+
+![](../../../../file/C_/Users/Desmond/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+He concluded his submissions on this ground by quoting part of the judgment of the trial court which he said is a much better appreciation of the evidence adduced at the trial than the conclusion reached by the Court of Appeal. This was what the trial judge said;
+
+_“if an organization like TDC will give away 6 acres of land to its employee and later one acre as compensation without an application form being filled or a letter offering the said compensation (page 94) then it is indicative of the disorganised way business is conducted there. It is bad testimony. The innuendoes that Plaintiff was a schedule officer then and must have something to do with this lack of documentation does not amount to corroborative evidence. The amended statement of defence does not allege and particularize fraud”._
+
+On ground **(b)**, Appellant contended that he was a former employee of the Respondent who retired with honours. No adverse findings were ever made against him and none came out during the trial. It was therefore an act of extreme injustice for the Court of Appeal to conclude that he had used his position as a former employee to manipulate the system of the Respondent to allocate a large tract of land to himself. He went on to say that the land measuring 6.19 acres was allocated to him by a lease document (**Exhibit ‘A’**). According to him, the only way this lease agreement between him and the Respondent could be varied would be another written document. He submitted that where the parties have entered into a written agreement with express stipulations, it is manifestly not desirable to extend them by any implications, quoting the Latin expression; _“expressum facit cessare tacitum”._
+
+He contended further that under the parol evidence rule, it is a rule of law that if there is a contract which has been reduced into writing, verbal evidence is not allowed to be given so as to add or subtract or in any manner to vary or qualify the contract. He quoted the English cases of **ASPIN v** **AUSTIN \[1844. 5 QB 671** and **RABIN & Others v GERSHON BERGER ASSOCIATION LTD & Others \[1986. 1 WLR 526 @ 530** to support the argument that a valid lease can only be varied by another written transaction.
+
+It is on the basis of the above arguments that Appellant contended the judgment of the Court of Appeal was against the weight of evidence adduced at the trial.
+
+**Respondent’s submissions in response to grounds (a), (b) and (d)**
+
+The Respondent disagreed totally with the Appellant’s assertion that there was no evidence from the Respondent to suggest that the 1.10 acres that was granted to the Appellant was compensation for truncating the 60-year lease offered the Appellant for agricultural purposes. It contended strongly that there is overwhelming evidence on record to prove the Appellant wrong on this point.
+
+Respondent recounted the testimony of Mr Swaniker at pages 170 to 178 to support this assertion. He then submitted as follows: _“I humbly submit that contrary to the submission of my learned friend on the_ _issue of compensation, there is ample evidence on record to demonstrate that 1.10 acres of residential plots converted from the 6.19 acres of agricultural land re-entered by the Respondent, was allocated to the Appellant as compensation for the re-entry and determination of the lease and was so rightly held by the Court of Appeal”._
+
+On ground **(b)** the Respondent contended that it found nothing wrong with the Court of Appeal’s conclusion that the Appellant manipulated the system to his advantage in the allocation of the 6.19 acres of land meant for agricultural purposes. He quoted in extenso that part of the Court of Appeal’s judgment on the issue which appears at pages 262 to 263 of the record and then made the following submission: _“I submit that the Court of Appeal’s decision is fully supported by Respondent’s representative’s_ _uncontroverted evidence. Here is an employee who happened to be in charge of the land leased to him while he was at post. He failed to hand over properly to his successor when he was leaving the Corporation on retirement thereby making it extremely difficult to locate the file relating to the lease. The irony of it is that he had in his possession Exhibit A, a photocopy of a document on file. Exhibit A had a folio number and a dispatched stamp on it at the time it was tendered. This means that he had access to the file after Exhibit A had been placed on the file and numbered. If the applicant claims that the 1.10 acres of land allocated to him was not compensation then it stands to reason that he manipulated the system to his advantage and the Court of Appeal was perfectly right in the conclusion it arrived at”._
+
+**Evaluation of the facts and law with regard to the submissions of parties on grounds (a), (b) and (d)**
+
+It is trite or a well-established principle of law that where an appellant had appealed on the omnibus ground that the judgment is against the weight of evidence, the appellate court was bound to consider comprehensively the entire evidence on record before coming to a conclusion on the matter. This Court has expounded this principle in a plethora of decisions including the following: 1. Akuffo-Addo v Catherine \[1992.1 GLR 377, SC; Koglex (No.2) v Field \[2000. SCGLR 175; Tuakwa v Bosom \[2001-2002. SCGLR 61; Brown v Quashigah \[2003-2004. 2 SCGLR 930; Ackah v Pergah Transport Ltd & Others \[2010. SCGLR 728; Aryeh & Akakpo v Ayaa Iddrisu \[2010. SCGLR 891.
+
+The Court of Appeal did not derogate from its duty in this regard when it analysed the record before it and set aside the judgment of the trial court that went in favour of the Appellant on the ground that it was against the weight of evidence adduced at the trial. Having climbed further to this Court after losing in the Court of Appeal, the Appellant has invoked our jurisdiction to further evaluate the whole evidence on record and to come to a conclusion different from that of the first appellate court by breathing life into the demised judgment of the trial court.
+
+Since this is a duty bestowed on us by the Constitution, 1992 (articles 129(1) and 131) and sections 2(1) and 4 of the Courts Act, 1993 \[Act 459., we hereby set out on our journey to accomplish this duty. We do so, mindful of the decision of this Court in Koglex (No.2) v Field (supra) that as a second appellate court, this Court must satisfy itself that the judgment of the first appellate court based on findings of fact is justified on the basis of the evidence and materials in the record of proceedings.
+
+In his evidence in the trial court as well as in his written submissions in the statement of case filed on 11/03/2015, the Appellant did not deny that the Respondent did grant him six (6) residential plots of land covering an area of 1.10 acres re-designed out of the 6.19 acres originally allocated to him for agricultural purposes per the offer letter tendered in evidence as Exh ‘A’. His contention rather was that the 1.10 acres made up of six residential building plots that were granted to him was not compensation because there was no agreement to that effect. His argument was as follows:
+
+_“The burden of proof to establish that the 1.10 acres of land retained by the appellant was compensation for the 5 acres rested on the Respondent who failed to discharge it, except repeat it in evidence under cross-examination. In the case of MAJOLAGBE vrs. LARBI \[1959. GLR 190, it was held that where an averment in a party’s pleading is capable of positive proof, it is not sufficient for the party to mount the witness box and repeat it. Some corroborative evidence must be adduced._
+
+_This statement cannot be justified in any way because TDC cannot re-enter 5 acres out of a total of 6.19 acres of a person’s land in which he is in effective possession after validly acquiring same and claim that 1.10 acres of it constitutes compensation for the 5 acres re-entered in the absence of an agreement to that effect. This argument flies in the face of the evidence since Respondent led no iota of evidence to prove this allegation…”_ {Emphasis added}
+
+We find unfathomable the logic in the Appellant’s argument as canvassed above. Appellant is behaving as if the 6.19 acres of land on which he was farming belonged to him; that he was the owner and the Respondent came from nowhere and took 5 acres out of it. His argument re-called above that; _“TDC cannot re-enter 5 acres out of a total of 6.19 acres of a person’s land in which he is in effective possession after validly acquiring same and claim that 1.10 acres of it constitutes compensation for the 5 acres re-entered in the absence of agreement to that effect”,_ suggests that he was the actual owner of the land. This is incredible!
+
+We do not blame the Appellant for charting the course he chose in dragging his former employer to court for doing him a favour. We blame the Respondent for dealing haphazardly with government land that was entrusted under its care for specific purposes to satisfy one of its employees employed to secure the very land in question.
+
+It is clear from Exhibit ‘A’; i.e. the offer letter that, the Respondent did not follow its own procedures governing such allocations after granting the Appellant right of entry.
+
+Paragraph 5 of Exhibit ‘A’ is categorical that; _“As soon as we are satisfied that there is an uninterrupted and_ _physical development of the plot for at least two consecutive years, our Legal Department will be advised to commence action on the preparation of the lease”._
+
+No such lease was ever prepared and executed between the Respondent and the Appellant for the ten (10) years that the Appellant was in occupation of the land. The Valuers who prepared the 2005 valuation report were emphatic that they did not sight any lease document to establish the Appellant’s root of title. Again, the offer letter was silent on the fact that the Appellant was an employee of the Respondent and the very officer responsible for such grants; being the supervisor of those lands described as ‘traditional lands’.
+
+If, therefore, the Respondent conducted its business in a disorganised manner by not following procedure in the grant of the 1.10 acres to Appellant after ceding the remainder to the original owners; i.e. Kpone Traditional Council, as the trial judge chastised in her judgment, could the Appellant who was the schedule officer responsible for such lands escape blame?
+
+The reason why the Appellant dragged the Respondent to the trial court was that he had expended money on the land in the course of undertaking his farming activities before the re-entry but was not given any compensation for the loss incurred. Though he admits that he was allocated six residential plots of land covering an area of 1.10 acres out of the 6.19 acres he was farming on after the re-entry, he does not regard that gesture as compensation for the loss of farming rights because there is no formal agreement to that effect. His argument was that merely pleading that the 1.10 acres of land granted to him was compensation and entering the witness box to repeat the said pleading without any corroborative testimony was not sufficient to establish that fact.
+
+Incidentally, Appellant never told the court the reason behind the grant of the six residential plots of land to him free of charge after the release of the land to the original owners. If the 1.10 acres of land, which the Respondent re-designed into six (6) building plots and gave all free of charge to the Appellant immediately after the re-entry in 1996 was not compensation, then what was it? A dash?
+
+It is an avowed principle of law that corroboration is not a general requirement of the law in the absence of which the decision of a court of fact would be reversed. Section 7 (3) of the Evidence Act, 1975 \[NRCD 323. provides: _“Unless otherwise provided by this or any other enactment, corroboration of_ _admitted evidence is not necessary to sustain a finding of fact or verdict”._
+
+This principle of law has been given expression by the Court of Appeal and this Court in the cases of
+
+KRU v SAOUD BROS & SONS \[1975. 1 GLR 46, C.A.; AYIWA v BUDU \[1963. 1 GLR 86, S.C.; (3) REPUBLIC v MUNKAILA \[1996-97. SCGLR 445 @ 446, holding (3) and then (4) TAKORADI FLOUR MILLS v SAMIR FARIS \[2005-2006. SCGLR 882 @ 883, (holding 3).
+
+It must be noted, as was recounted in the _Kru and Munkaila cases_ (supra) that; judicial decisions depend on intelligence, quality and credible facts but not on the quantum or multiplicity of witnesses produced at the trial. Therefore, where no rule of law or practice required corroboration, the test is whether the evidence adduced, though given by a single witness, was credible. Ansah, JSC also coined it in the following words in the _Takoradi Flour Mills case_ (supra): _“A tribunal of fact can decide an_ _issue on the evidence of only one party. A bare assertion on oath by a single witness might in the proper circumstances of a case be enough to form the basis of a judicial adjudication. The essential thing is that the witness is credible by the standards set in section 80(2) of the Evidence Act, 1973 \[NRCD 323.…for; **‘testes** **ponderantur non numerantur’**, i.e. (witnesses are weighed, but not counted)”._
+
+The testimony of Respondent’s representative Mr Swaniker was to the effect that the 1.10 acres of land re-designed into six residential building plots and allocated to the Appellant free of charge was compensation for the loss Appellant incurred when the land was re-entered and released to the Kpone Traditional Council on the directives of the Government. The Respondent, before adducing this evidence, pleaded it under paragraphs 7 and 8 of its amended statement of defence thus:
+
+_“7. In the alternative, 1.10 acres of the land was released back to plaintiff for residential purposes to compensate him for the loss of the 5 acres of farmland which he lost through the government directive._
+
+_8. The defendant says that the plaintiff was adequately compensated considering the fact that the land released to the plaintiff appreciated in value as a result of change of use from farming to residential”._
+
+The Appellant responded to these amended paragraphs in his amended reply filed on 24/04/2009 under paragraph 3 as follows:
+
+_“3. Paragraphs 7 and 8 are denied and Plaintiff will say that upon persistent enquiry, 1.10 acres of his (Plaintiff’s) land was returned to him but there was no such understanding or agreement that it was to be regarded as compensation for the 5 acres forcibly taken by Defendant and given to the Kpone Traditional Council”._
+
+The fact is that the above averment by the Appellant is far from the truth or being factual. In the first place, the 5 acres of land ceded to the Kpone Traditional Council on the directives of Government, which is the owner of the land in question, was not forcibly taken away from the Appellant.
+
+Paragraph 2 of the offer letter (Exhibit ‘A’) was clear on its face or categorical that Appellant’s tenancy was subject to any new policy, rule or bye-law that may be adopted and passed by either the Respondent or Government.
+
+Again, the Appellant was not given a bare 1.10 acres of the land to continue his farming activities. The truth of the matter is that, the use of the land for agricultural purposes had changed following the directive of Government to lease a portion of the land to the original land owners for residential purposes. When the Kpone Traditional Council therefore entered the five (5) acres of land, Appellant, through his lawyer Mr Kye, persistently requested the Respondent to compensate him as he himself said in his evidence at the trial. It was as a result of this persistence, as he has pleaded in his amended reply quoted above that, the Respondent took it upon itself to redesign the 1.10 acres into six residential building plots which it gave to the Appellant free of charge. Appellant, with the consent of the Respondent, sold five out of the six plots and pocketed the proceeds while he kept one plot for himself. And it must be pointed out clearly that the land did not belong to the plaintiff for him to describe it as “plaintiff’s land”, as he did under paragraph 3 of his amended reply quoted above.
+
+Having admitted that he was allocated six residential building plots of land covering 1.10 acres of land free of charge in the year 2000 after losing his farming rights over the 6.19 acres of respondent’s agricultural land in 1996, Appellant should have told the trial court why he was a beneficiary of that largess if it was not meant to compensate him for the loss of the farming rights he derived from the offer made to him in 1986, the absence of a written agreement to that effect notwithstanding.
+
+It is surprising that Appellant who never entered into any written contract or a formal lease with the Respondent for the use of the land for farming purposes for the ten years that he was in occupation has now turned round to request for a written agreement in respect of the 1.10 acres granted to him free of charge as compensation, otherwise he would not accept the fact that it was compensation. In fact, we do not see the relevance of the English authorities Appellant cited in his written submissions; i.e. ASPIN v AUSTIN \[1844. 5 QB 671 and RABIN & Others v GERSHON BERGER ASSOCIATION LTD & Others \[1986. 1 WLR 526.
+
+A lease in its simplest possible form is the grant of a leasehold interest in land as the Respondent did in this case for the Appellant. But in practice, legal leases are almost invariably bilateral contracts, in which the tenant is not only given an estate in the land but also himself gives covenants, e.g., to pay rent and execute repairs, etc. Broadly put, a lease agreement is a contract between two parties, the lessor and the lessee. Aside of the fact that the Respondent offered the land in question to the Appellant for farming purposes under express terms, there is nothing to show that the Respondent and Appellant entered into or executed any written lease agreement or contract document.
+
+Where is the written lease agreement, which Appellant says can only be varied by another written agreement? Is it Exhibit ‘A’? Exhibit ‘A’ is no contract or agreement. It was just a mere offer letter. It was a unilateral grant or in other words an equitable grant or lease.
+
+It is trite that a lease agreement is a contract for lease of land and thus the terms of the contract have to be by mutual agreement. The formal lease that should have been prepared and executed by the Respondent and the Appellant as provided under paragraph 5 of Exhibit ‘A’ was not concluded. A contract or agreement must be executed or signed by both parties tying them to the terms expressed therein.
+
+The material terms of a valid lease are as stated by da Rocha and Lodoh in their book; ‘PRACTICAL DRAFTSMAN’, published by DR & L Printing and Publishing Services, Accra, Ghana – 1998; page 50, viz;
+
+Identity of the lessor and the lessee and the capacities in which they are contracting;
+
+A precise description of the land to be leased;
+
+The duration of the lease and its commencement date;
+
+The consideration for lease;
+
+The covenants, stipulations and conditions which the parties intend to govern their relationship; and Signature of the parties or their agents duly authorised in writing to sign on their behalf.
+
+Exhibit ‘A’ does not satisfy all the requirements stated above; particularly requirements **(e)** and **(f).** Exhibit ‘A’ is therefore not a valid lease that is enforceable in our courts. That is not meant to say that the Appellant is not entitled to any form of compensation when it is established that he indeed incurred certain losses when he was made to act on the strength of statements made by the Respondent in Exhibit ‘A’ to his detriment.
+
+The Appellant’s contention was that he was made to construct some structures on the land on the strength of Exhibit ‘A’, which provided that he was to farm on the land for sixty (60) years. However, after ten (10) years, the Respondent took away from him five (5) acres of the land. He therefore lost his investments, thus the claim for compensation. The amount of compensation he prayed for in his writ of summons, which was based on a 2005 Valuation Report made almost nine (9) years after the re-entry and which the trial court granted him without question, included the market value of the land, which in fact did not belong to him.
+
+The Respondent on the other hand was of the view that the Appellant had been fairly compensated when upon the re-entry; he was given six residential building plots covering 1.10 acres of land free of charge, five of which he converted into huge cash by sale.
+
+**What is Compensation?**
+
+Compensation has been defined in various ways. The Oxford English Dictionary defines it as: _“The act_ _or principle of compensating; that which constitutes, or is regarded as, an equivalent; that which makes good the lack or variation of something else; that which compensates for loss or privation; amends; remuneration; recompense”._
+
+According to Gilbert’s Law Dictionary, published by Harcourt Brace Legal & Professional Publications Incorporated, Chicago; _“compensation is simply payment for injury or loss sustained; giving_ _something of equal value for something lost, etc.”_
+
+One major peculiarity about land is its nature. Under the common law, land consists of two things; (a) the corporeal; i.e. the tangible or physical land that can be touched and measured and (b) the incorporeal or the intangible entity supposed to be residing in the corporeal. The intangible is also known as the ‘interest’ in the tangible land.
+
+The intangible or ‘interest’ character of land is what is owned by the person to whom the land belongs. The owner can receive benefits from this ownership alone without actually touching the tangible or physical land. That is why in practice, and in most cases, persons occupying or possessing lands are not usually the owners. The concept of the intangible right or title to land as a legal entity, separate and independent of the tangible; i.e. the corporeal, brings different dimensions into issues relating to determining compensation for loss of land.
+
+For example, when the State compulsorily acquires land, say belonging to a Stool; exercising its powers of ‘eminent domain’, and there are subjects of the Stool already farming on the acquired land, the State is required to pay two types of compensation.
+
+First, the State pays for crops and structures or buildings on the land. If the user of the land has crops only, he is paid the value of the crops he has lost plus loss of use. If he has in addition to the crops, structures or buildings like farm huts, hamlets, etc. for habitation and storage of crops, he is paid the assessed value of the structures or buildings he is going to lose as a result of the acquisition. The former is called ‘crop compensation’ while the latter is called ‘building compensation’. This type of compensation goes to the land users.
+
+Second, the State pays for the value of the interest the Stool as owner has in the land; i.e. the incorporeal or intangible, which the Stool loses forever as a result of the acquisition. This payment is what some writers describe as; ‘reinstatement’. This form of compensation is assessed on the basis of the actual or market value of the land as at the time of acquisition.
+
+With regard to the land in question in the instant case, part of which was allocated to the Appellant and others for farming purposes, the State compulsorily acquired it from the original owners; i.e. the Kpone Traditional Council for the Tema Development Corporation (TDC); i.e. Respondent, when it was established by statute. Ownership in the land therefore changed from the Kpone Traditional Council to the State, with the Respondent as the manager of the said lands. The Respondent; including the Appellant who was a senior employee of the Respondent, therefore knew that the land belonged to the State and that the Respondent was only permitted by statute to manage same. That was why in its offer letter to the Appellant, Respondent expressly stated under paragraph two (2) of the said letter that: _“Notwithstanding any provision contained herein, your tenancy shall be subject to any_ _new policy, rule or bye-law that may be adopted, and or passed by the Tema Development Corporation and or the Government in so far as it affects or they affect the Tema Development Corporation”._
+
+When the Respondent wrote to the Appellant and other agricultural tenants to cease farming operations because the Government had directed it to hand over the land to the Kpone Traditional Council to be zoned into residential plots, the Appellant knew the directives conformed to the offer letter or unilateral lease granted him by the Respondent. He therefore knew that the Respondent had not breached any contract between him and the Respondent by the re-entry as the possibility of such a development was expressly indicated in the offer letter, which was not a contract anyway.
+
+As a mere agricultural tenant on the 6.19 acres of land, Appellant knew very well that he was not the owner of the intangible interest in the land. He was therefore not entitled to any compensation payment in the form of the actual or market value of the land. The only payment he was entitled to as compensation was the assessed value of the crops he had on the land if any, and or the assessed value of the structures or buildings that he had, if any, plus loss of use as a result of the truncation of the period of the lease. Any assessment of such compensation must also be based on the value of the crops and the structures as at the time the land was re-entered, and in this case, their value in 1996.
+
+There is no evidence on record to show that the Appellant had any crops on the land at the time of the re-entry in 1996. What Appellant said he had on the land at the time of the re-entry were structures which were valued in 2005 as follows: three (3) fish-ponds that were given an estimated total yield of GHc450.00 per annum at GHc150.00 per pond with a 17-year value of **GHc7, 725.00** for the three alleged ponds; two hundred (200) pvc pipes valued at **GHc687.50** and then a 2,000 gallon capacity underground concrete tank that was under construction valued at **GHc385.00**. The total value of these structures came to **GHc8, 797.50**, which is Eighty seven million, nine hundred and seventy five thousand cedis (**c87, 975, 000**) under the old currency.
+
+Aside of the valuation placed on the alleged structures by the Valuers in 2005, Appellant could not tell how much he actually lost, as evidence on record shows clearly that he never completed any of the structures he said he was building on the land at the time of the re-entry. Interestingly, before the Appellant accepted the six residential building plots covering an area of 1.10 acres of land from the Respondent after the re-entry in 1996, no valuation of the alleged structures he had built on the land had been undertaken. The valuation report the trial High Court relied on to arrive at the compensation was prepared in 2005; i.e. nine (9) good years after the re-entry.
+
+According to P.W. 1 (the Valuer) when they visited the land in 2005 to do the valuation, the Kpone people had already entered the land and some people had even built on portions so they did not see anything tangible apart from some of the PVC pipes and dug grounds. When he was asked during cross-examination to tell the court the number of PVC pipes he saw, he answered that he did not see any physically. (See page 128 of the RoA).
+
+Again, when he was asked to describe the fish-ponds, he said he only saw a disused fish pond but could not tell the number of fish the Appellant started with or the yield of the pond. According to him, he valued the Appellant’s fish pond based on the value placed on that of one of the other farmers called Captain Owiredu. (See page 131 of the RoA).
+
+When asked further whether he had specific instructions to value Appellant’s land, he answered in the negative. (See page 128 of the RoA). Meanwhile, the Valuers pegged the value of the so-called structures, including loss of use at **GHc10, 097.00** and then the market value of the 5-acre land at **GHc50, 900.00** making a total of **GHc60, 997.00**.
+
+Clearly, it was wrong and even absurd on the part of the trial court to award the Appellant compensation on the actual or market value of the land when he was not the owner of the land as the Court of Appeal rightly held. It was even more absurd when the compensation was based on the 2005 value of the land when the re-entry was done in 1996.
+
+Another absurd conclusion contained in the Valuation Report, as the Court of Appeal rightly found, was the amount of **GHc7,725.00** awarded as compensation representing the expected yield of three fish ponds for a period calculated to be over seventeen (17) years when the Valuers did not know the yield of the fish ponds if any, as at the time of the re-entry in 1996.
+
+Granted the Appellant was not compensated in any way and therefore was entitled to compensation, the computation should have been based on the value of the structures lost plus loss of use as at 1996 but not 2005. Aside of that, the compensation cannot, under any stretch of imagination, include the market value of the land which he did not own. Going by the 2005 valuation report, which this Court thinks should not be the case, the amount he would have been entitled to would be the **GHc10,097.00** being the value of the structures plus loss of use as was determined by the valuation report.
+
+This Court therefore finds flawless the conclusion of the Court of Appeal that the six (6) residential plots covering 1.10 acres of land that were allocated to the Appellant free of charge was more than adequate compensation for the termination of Appellants lease and re-entry of the agricultural land by the Respondent in conformity with the provisions in the offer letter (Exhibit ‘A’).
+
+With regard to the statement by the Court of Appeal that the Appellant manipulated the system to his advantage as an employee, which is the gravamen of ground **(b)**, Appellant contends that, that statement was an act of extreme injustice since there was no evidence of that sort on the record.
+
+According to Appellant, no evidence came out at the trial to suggest an act of dishonesty or manipulation on his part. The issue before the trial court, he asserted, was not about the propriety of the allocation of land to him but whether he was entitled to compensation upon re-entry by the Respondent of a validly allocated parcel of land. The Court of Appeal therefore engaged in extreme speculation not borne out by evidence at the trial, he submitted. The Respondent, however, thought otherwise.
+
+The question is; what pronouncement did the Court of Appeal make to generate the arguments on ground **(b)**? The part of the judgment of the Court of Appeal under impeachment on this ground is as follows:
+
+_“Here is a plaintiff who is in charge of the defendant’s Traditional Lands as the Manager. He was allocated 6.19 acres of the Traditional Lands for farming. When he left office he did not hand over properly to his successor. Original files concerning all transactions affecting his grants could not be traced after strenuous searches concerning them. The plaintiff turns round to sue his employer for compensation for re-entry. In the course of the trial, it came to light that allocations of large tract of lands were made to him without application from him. Certainly, he might have manipulated the system to his advantage. His interest was certainly in conflict with that of his employer and equity and by extension the law, had no business coming to his aid. The trial judge ought to have second look at the entire role played by the plaintiff in the murky transactions. The blame the trial judge heaped on the TDC ought to have been extended to the plaintiff as well. His conduct was not above board and he does not deserve to benefit from his wrongdoing; the court should not assist him reap undeserved benefits”._
+
+To be fair to the Court of Appeal, nowhere in the statement quoted above did the Court of Appeal say that the Appellant manipulated the system to his advantage by awarding to himself the 6.19 acres of land; which is the gravamen of ground **(b)** of the grounds of appeal.
+
+What the Court of Appeal said was that the Appellant might have manipulated the system to his advantage judging from the way documentation and other issues concerning the grant to him was handled. It did not say that the Appellant allocated the land to himself through manipulations. The offer letter (Exhibit ‘A’) was signed by the CEO or MD of the Respondent so on paper, it could be said that the allocation was made by the Respondent. This, however, does not derogate from the fact that he was the very officer supervising such allocations.
+
+Though there is no direct evidence to suggest that the Appellant manipulated the system to his advantage, the circumstances surrounding the allocation and the non-conformity with the rules regulating such grants with regard to the grant made to him call for such speculations. Speculations, however, no matter their perceived accuracies, cannot constitute proof. The Court of Appeal was not certain that Appellant manipulated the system. It only concluded that; he might have manipulated the system to his advantage judging from the conflict of interest situation that existed between the Appellant and his employer the Respondent; Appellant being the very officer in charge of documentations on such allocations.
+
+In fact, throughout his pleadings, the Appellant never disclosed the fact that at the time he obtained the grant in 1986, he was in the employment of the Respondent as the very officer in charge of such lands. He did not ensure that all the rules governing such grants applied in his case (like the preparation of a formal lease). He again did not hand over the files covering the grant to him to his successor Mr Swaniker (D.W. 1) when he was leaving office as D.W. 1 told the trial court in his evidence, which assertion Appellant never challenged.
+
+What the Appellant did, in fact, amounted to conflict of interest as the Court of Appeal rightly asserted. It is therefore surprising that after accepting 1.10 acres out of the 6.19 acres free of charge after the re-entry in 1996, the Appellant would turn round eleven (11) years later to sue his employer for another undeserved compensation. If the thinking of the Appellant was that the 1.10 acres of land made up of six building plots allocated to him free of charge by the Respondent was a mere dash, then was the Court of Appeal wrong in drawing the inference that he certainly might have manipulated the system to his advantage? We do not think so.
+
+On ground **(c)**, quite apart from the fact that the 1.10 acres granted to the Appellant free of charge was more than sufficient compensation for the farming rights lost, the whole Valuation Report based on market values as at 2005 instead of 1996 when the land was re-entered lacked credibility. The trial High Court should not therefore have relied on it to determine the amount of compensation to be paid to the Appellant, granted no due compensation had been paid to him by then. The Court of Appeal was on course when it rejected and dismissed the whole report.
+
+Fundamentally, the appeal has no merits whatsoever as the Court of Appeal did not err in the conclusions it reached. The Appellant only wanted to reap where he had not sown. His appeal cannot therefore succeed and it is hereby dismissed.
+
+(SGD) **YAW APPAU**
+
+**JUSTICE OF THE SUPREME COURT**
+
+**<u><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Book Antiqua';">CONCURRING OPINION</span></u>**
+
+**<u><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Book Antiqua';">PWAMANG, JSC.</span></u>**
+
+I agree that this appeal be dismissed. My respected brother, Appau JSC, has examined the evidence in great detail and I agree with the conclusions he has drawn therefrom. I wish only to add a few words of my own on the application of the maxim; _expressum facit cessare tacitum_ and the parol evidence rule which the plaintiff partly relied on in this case.
+
+The relevant facts of the case are as follows; By a letter dated 26/6/1986 the Defendant/Appellant/Respondent, hereinafter referred to as the defendant, offered a 60 year lease over 6.19 acres land at Kpone near Tema to the Plaintiff/Respondent/Appellant hereinafter referred to as the plaintiff, for agro-based factory building and farming purposes. Plaintiff at the time was an employee of defendant and in charge of traditional lands of which the 6.19 acres was part. This offer letter among other terms provided follows;
+
+_“Para 1(v). You will be expected to commence building operations for the factory site within two years of the site being handed over subject to a reasonable extension for legitimate cause of delay and to have the site fully developed within five years from the date right of entry is granted._
+
+_Para 2. Notwithstanding any provision contained herein, your tenancy shall be subject to any new policy, sale or bye-law that may be adopted and passed by the Tema Development Corporation and, or the Government in so far as it affects or they affect the Tema Development Corporation.”_
+
+The letter also required plaintiff to accept the offer in writing within one month failing which the offer would lapse.
+
+In 1996 the Government directed the defendant to cede part of its land to the Kpone Traditional Council for residential purposes and this included the land leased to plaintiff. Consequently defendant wrote to terminate plaintiff’s lease, re-entered the land and re-zoned it into residential plots. Plaintiff and other tenants whose agro-based industrial leases were terminated in similar manner requested the defendant to pay them compensation. While the tenants were pursuing the compensation claims, plaintiff was offered a new lease for 1.10 acres out of his original 6.19 acres land, but this time for residential purposes. The new offer letter dated 24/1/2000 contained conditions similar to those in the 1986 letter except for the rent payable and land management fee which was waived for plaintiff. The letter stated as follows at paragraph 1(vii) (d);
+
+_“The lessee shall not be permitted to transfer or assign part or whole of the vacant plot.”_
+
+The land was zoned into six building plots and plaintiff was given right of entry. Plaintiff did not develop the plots but sold out five vacant plots for which defendant granted consents for transfers to the third party purchasers.
+
+Plaintiff nevertheless pursued his claim for compensation from defendant for the termination of his earlier lease. In 2005 he got a valuation report prepared which he submitted to defendant for compensation to be paid to him. Defendant refused to pay so plaintiff sued in the High Court, Tema to recover the compensation with interest. In their amended statement of defence, defendants contended that the lease for the six residential plots was given as compensation for the termination of the agro-based industrial lease so plaintiff was not entitled to his claims.
+
+During the trial defendant’s representative testified that the residential plots were offered to plaintiff without any application by him as is the normal procedure with defendant. Plaintiff denied the averment and argued that the letter offering the residential plots to him did not state that the land was given as compensation for the termination of the first lease.
+
+The trial High Court in its judgment dated 29/10/2010 rejected the contention of defendant that the residential lease for six plots was compensation to plaintiff holding that if it were so the letter offering the residential plots should have expressly stated so. The court accordingly gave judgment against defendant and being dissatisfied it appealed against the decision.
+
+The Court of Appeal allowed the appeal upholding the defendant’s case that the six residential plots were compensation for the termination of the first lease. Plaintiff has appealed against the decision of the Court of Appeal to this court. In his statement of case filed in this court, the plaintiff, among other grounds, has relied on two propositions of law namely; _expressum facit cessare tacitum_ and the parol evidence rule. Plaintiff first argued these legal points before the Court of Appeal but the court did not address them in its judgment.
+
+The main points of plaintiff’s arguments, as I understand them, are that the letter offering the 1.10 acre of residential lease to him did not state that it was meant as compensation for the termination of the earlier lease. Therefore, in line with the legal maxim _expressum facit cessare tacitum_, the court ought not to read compensation as part of the offer letter since that was not expressed. Secondly, the offer letter for the 1.10 acre lease should be considered the written contract between the parties so the court ought not to accept parol evidence which would vary, add to or contradict the terms stated in it by including compensation for the termination of the earlier lease. The two propositions of law bear close resemblance and before applying them to the facts of this case, we need to understand their meaning and scope in Ghana law.
+
+The literal English meaning of _expressum facit cessare tacitum_ is; ‘’what has been expressed makes what is implied silent.’’ This expression is one of the legal maxims described as aids to interpretation. They are applied by courts to help discover the legislative intent in statutes but may also be used in the interpretation of deeds. Aids to interpretation are presumptions and not binding rules. In the Australian case of **MINISTER FOR IMMIGRATION V. NYSTON (1937) 47 CLR 1,** the court was considering a case in which the principle _expressum facit cessare tacitum_ was urged on it and it said as follows at page 54 of the report;
+
+_“…whilst ‘rules’ or principles of construction may offer reassurance, they are no substitute for consideration of the whole of the particular text… its subjects, scope and purpose.”_
+
+So in order to determine whether the maxim will be of assistance in ascertaining the intention of defendant who signed the offer letter for the residential plots, which was tendered in evidence as Exhibit ‘1A’, we need to consider the totality of the circumstances under which the writing was signed. The critical issue would be whether what has been expressed was intended to be the exclusive agreement of the parties.
+
+Next is the parol evidence rule. It is a common law rule which states that when two parties have made a contract and have expressed it in a writing to which they have both assented as an expression of their intentions, oral evidence is not admissible to add to, vary or contradict the written agreement. See the case of **BANK OF AUSTRALASIA V. PALMER \[1897. A.C 540.** The rule was later extended to cover all writings that create legal obligations between parties whether signed by all the parties or only one of them. See **MOUGANIE V. YEMOH \[1977. 1GLR 163.**
+
+In his written submissions, plaintiff's lawyer referred to the English case of **RABIN v GERSON** **BERGER ASSOCIATION LTD. \[1986.1WLR 526** which stated the common law parol evidence rule in its pristine form but the rule has evolved and admitted many qualifications and exceptions. In fact, the Law Commission of England and Wales in their Report, Working Paper No.154 released in 1986, stated that the common law parol evidence rule cannot still be referred to as a 'rule' on account of its many exceptions. In Ghana the rule has been codified in the **Evidence Act 1975 (NRCD 323) at** **Section 177.** Parol evidence means oral evidence but section 177 of NRCD 323 uses the term “_extrinsic_ _evidence_” which means even any written understandings or memoranda prior to the execution of a written agreement may be excluded.
+
+Section 177 of NRCD 323 provides as follows;
+
+Extrinsic Evidence Affecting the Contents of a Writing;
+
+(1) Except as otherwise provided by the rules of equity, terms set forth in a writing intended by the party or parties to the writing as a final expression of intention or agreement with respect to such terms as are included in the writing may not be contradicted by evidence of any prior declaration of intention, of any prior agreement or of a contemporaneous oral agreement or declaration of intention, but may be explained or supplemented-
+
+(a) by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the intention or agreement, provided that a will and a registered writing conveying immovable property shall be deemed to be a complete and exclusive statement of the terms of the intention or agreement; and
+
+(b) by a course of dealing or usage of trade or by course of performance.
+
+(2) Nothing in this section precludes the admission of evidence relevant to the interpretation of terms in a writing.
+
+The wording of our provision is similar to and can be said to have been influenced by the provisions of Article 2-202 of the **Uniform Commercial Code of the United States** of America published in 1952. It provided as follows;
+
+UCC 2-202: Terms in a writing intended by the parties as final expression of their agreement may not be contradicted by extrinsic evidence, but may be supplemented
+
+(a) by course of dealing or usage of trade (1-205) or by course of performance (2-208); and
+
+(b) by evidence of consistent additional terms unless the court finds completely integrated agreement.
+
+The policy behind the parol evidence rule is that human memory is slippery and oral testimony, which is usually given sometime after a transaction, is not as reliable as documentary proof. What is more, the spoken word was viewed with skepticism. For these reasons the rule was invented to ensure certainty and finality of transactions which is in the public interest. But it was long ago conceded that there are instances where the strict application of the rule can result in injustice and lead to the enforcement of contracts that the parties really did not make or exclude oral terms that were intended by the parties to be binding. For those reasons the common law courts, in exercise of their equity jurisdiction, made exceptions to the rule hence the reference to rules of equity in Section 177 of the Evidence Act. The equitable exceptions include evidence to establish mistake, illegality, fraud and misrepresentation in respect of executed contracts. See the case of **MONGANIE V.** **YEMOH** supra.
+
+For our purposes in this case, the first important point to note about Section 177 of NRCD 323 is that it sets a condition precedent to the application of the extrinsic evidence rule; which is that it must be shown that the writing sought to be protected must have been intended by the party or parties who made it to be a final, complete and exclusive statement of the terms of the agreement. This in American jurisprudence is referred to as final and complete integration of the agreement. So where one party relies on the written terms of contract but the opponent alleges that the contract document was not meant to contain all the provisions of their agreement, he will be entitled to lead extrinsic evidence to prove that, apart from the written terms there are others that were agreed upon between the parties but which are not in the writing.
+
+The case of **Strakosch v. Connecticut Trust Co., 96 Conn. 471, 114 At. 6AJ (1921),** was an action against an executor for breach of an oral agreement by the testator to settle an income on plaintiff when adopted by him. The court found that the written instrument of adoption had not superseded this oral agreement, applying the following test:
+
+_"The plaintiffs claim that the existence of the written agreement rendered the prior oral agreement between the parties...of no avail to the defendant. This claim is based on the so-called 'parol evidence rule,' that where parties merge all prior negotiations and agreements in writing, intending to make that the repository of their final understanding, evidence of such prior negotiations and agreements will be rejected as immaterial .... Whether the parties intended the writing to embody their entire oral agreement or only a part of it, was a question for the trial court to be determined from the conduct and language of the parties and the surrounding circumstances; and that court has found that the parties had no such intent, and there is nothing in the record to show that the court in reaching that conclusion, erred either in law or in logic."_
+
+The common law has also now adopted this approach and as Chitty put it; _".....the scope of the parol evidence rule is much narrower than at first sight appears. It has no application until it is first determined that the terms of the parties' agreement are wholly contained in the written document."_ See Chitty on Contracts vol 1 (Sweet & Maxwell,29th Ed,2004 para 12-098).
+
+The second point we need to note about Section 177 is that it makes an exception to the rule for extrinsic evidence to be led of additional terms that are consistent with and explain or supplement terms in the written agreement. The parol or extrinsic evidence that is allowed may also be offered to explain or supplement a term in the existing agreement with evidence of a course of dealing, usage of trade or course of performance between the parties but which was not specifically stated. This exception to the parol evidence rule has also been adopted at common law. See Chitty on Contracts supra. para 12-095.
+
+With these principles in mind I will now consider the evidence led in this case, but before I do that, it must be noted that plaintiff in this case is not basing his case on a contract executed by himself and the defendant that contains terms that he says are binding on the parties so nothing more should be added. He is relying on the offer letter signed by defendant and contending that its terms constitute the agreement between the parties with regard to the six residential plots so oral evidence of compensation as a term of that contract is inadmissible on account of the parol evidence rule.
+
+Section 177 of NRCD 323 says; "writing intended by the party.....to the writing as a final expression of intention or agreement..." Defendant who made the writing says it was not intended as the final and complete agreement but there was another part of the agreement having to do with compensation which was oral. Plaintiff who is not a signatory of the writing cannot say much about the intention of defendant. If he was relying on a writing signed by the two parties he might have been in a better position than he finds himself. The decided cases say that whether the writing constituted only a part or the whole and complete agreement of the parties depends on the circumstances of the transaction and the behaviour of the parties.
+
+It is clear from the evidence on record that the parties in this case had not been reducing all their dealings into writing. For instance, in the letter offering the 6.19 acres to plaintiff, he was required to give written consent of the offer within one month or else the offer would lapse. Plaintiff did not tender any letter of acceptance of the offer within one month but he nevertheless took possession and was treated as a lessee by defendant. Furthermore, plaintiff was to complete building a factory on the land within five years of entry on it but he did not put up any factory building in the 10 years that he was in possession. So if plaintiff was held strictly to the terms of the 1986 offer letter tendered as Exhibit ‘A’, the court would have had to conclude that he had no valid lease to begin with.
+
+In the same way, plaintiff accepted the condition in the offer of the 1.10 acre residential land not to transfer the vacant land but he nevertheless did and defendant granted him consent. What all this means is that the offer letters in both cases were not intended to contain all the terms of the parties dealings in respect of the lands. There were oral terms that the parties observed in both transactions so the terms were not finally and completely integrated in the writing, both for the 6.19 acres and the 1.10 acre. Plaintiff having conducted himself in line with these partly written and partly oral terms of contract cannot now talk of excluding oral evidence by reliance on the parol evidence rule.
+
+The rule is not applicable on the ground that the writing Exhibit ‘1A’ was not intended as the final and complete expression of the agreement between the parties regarding the 1.10 acre residential plots. If that were so, on what authority did plaintiff transfer the vacant plots to third parties when Exhibit ‘1A’ specifically forbade such transactions? For the same reason that the offer letter was not an expression of the whole agreement of the parties, the maxim _expressum facit cessare tacitum_ is not applicable on the facts in this case.
+
+Secondly, to my understanding, the evidence that defendant led on the compensation was to explain and supplement the terms of the offer letter for the residential plots which stated “_Land Management_ _Fee of NIL_ …”. The evidence that the term was stated as such because there was an additional oral term that the offer of the lease was compensation for the termination of the earlier lease is not inconsistent with the terms of Exhibit ‘1A’. The evidence establishes a practice by defendant to charge a sum of money as management fee for its leases but in this case no sum of money was charged plaintiff. This evidence is made admissible by Section 177(1)(a) of NRCD323 as an exception to the extrinsic evidence rule.
+
+That evidence of compensation is credible having regard to the fact that plaintiff did not obtain the residential plots through the normal procedure. Furthermore the explanation that plaintiff was not charged land management fee because of some other consideration in the form of accepting the termination of his agro-based industrial lease is reasonable and highly probable on all the circumstances of this case. Plaintiff did not lead any evidence in answer to this part of defendant's case and I accept the evidence of defendant. Since plaintiff accepted the residential plots as compensation and has sold out five of them at much higher prices, he has no legal basis to claim another compensation.
+
+It is also for the above reasons that I agree that the appeal be dismissed.
+
+**(SGD)**
+
+**G.** **PWAMANG**
+
+**JUSTICE OF THE SUPREME COURT**
+
+**(SGD)**
+
+**ANIN** **YEBOAH**
+
+**JUSTICE OF THE SUPREME COURT**
+
+**(SGD)**
+
+**P. BAFFOE- BONNIE**
+
+**JUSTICE OF THE SUPREME COURT**
+
+**(SGD)**
+
+**J. B.** **AKAMBA**
+
+**JUSTICE OF THE SUPREME COURT**
+
+![](../../../../file/C_/Users/Desmond/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)

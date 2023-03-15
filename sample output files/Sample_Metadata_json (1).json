@@ -1,0 +1,55 @@
+{
+    "source": "lawsghana.com",
+    "booksReferredTo": [],
+    "casesReferredTo": [],
+    "caseId": {
+        "number": "H2/25/2017",
+        "type": "SUIT"
+    },
+    "court": {
+        "name": "COURT OF APPEAL",
+        "location": {
+            "city": "ACCRA",
+            "country": "GHANA"
+        }
+    },
+    "counsel": {
+        "Plaintiff/Appellant": [
+            "COUNSEL"
+        ],
+        "Defendant/Respondent": [
+            "COUNSEL"
+        ]
+    },
+    "editorialNote": null,
+    "headNotes": null,
+    "indices": null,
+    "judgement": {
+        "date": "2018-04-26T00:00:00.000Z",
+        "year": 2018,
+        "month": "April",
+        "day": 26
+    },
+    "judges": [
+        "MARIAMA OWUSU J.A. (PRESIDING)",
+        " DENNIS ADJEI J. A.",
+        " GERTRUDE TORKORNOO J. A."
+    ],
+    "lawReportsCitations": [],
+    "natureOfProceedings": null,
+    "mediaNeutralCitation": null,
+    "presidingJudge": "MARIAMA OWUSU J.A. (PRESIDING)",
+    "partiesOfSuit": {
+        "Plaintiff/Appellant": [
+            "AARON KWESI KAITOO"
+        ],
+        "Defendant/Respondent": [
+            "THE REPUBLIC"
+        ]
+    },
+    "statutesReferredTo": [],
+    "title": {
+        "long": "AARON KWESI KAITOO vs THE REPUBLIC", // Should list all Plaintiffs and Defendants
+        "short": "AARON KWESI KAITOO vs THE REPUBLIC" // Should list only the first Plaintiff and Defendant
+    }
+}
