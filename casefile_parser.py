@@ -22,3 +22,32 @@ def extract_metadata(pdf):
         pdf (_type_): _description_
     """
     pass
+
+def generate_preview(x):
+    """
+    Generates a preview markdown file from the contents of the pdf file passed as input
+
+    Args:
+        x (_type_): _description_
+    """
+    pass
+
+def generate_files(x):
+    """
+    Generates metadata, preview and technical files for a given pdf file
+
+    Args:
+        x (_type_): _description_
+    """
+    pass
+
+def parse_files(file):
+    """
+    Parses all PDF files in the input directory by passing each file into the generate_function defined above
+
+    Args:
+        file (_type_): _description_
+    """
+    pass
+
+# define main function to generate all required files(including log files), for all pdf files in a given directory path
