@@ -83,7 +83,8 @@ def generate_technical(file_path: str):
     Args:
         file_path (str): the path to the pdf file being parsed
     """
-
+    pdf = PdfFileReader(file_path)
+    
     # Define regex patterns to match sections and paragraphs
     section_pattern = re.compile(r"__section__ (.+)")
     paragraph_pattern = re.compile(r"__paragraph__ (.+)")
