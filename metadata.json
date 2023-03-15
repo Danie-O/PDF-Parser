@@ -1,0 +1,43 @@
+{
+    "source": "",
+    "booksReferredTo": [],
+    "casesReferredTo": [],
+    "caseId": {
+        "number": "",
+        "type": ""
+    },
+    "court": {
+        "name": "",
+        "location": {
+            "city": "",
+            "country": "GHANA"
+        }
+    },
+    "counsel": {
+        "Plaintiff/Appellant": [],
+        "Defendant/Respondent": []
+    },
+    "editorialNote": null,
+    "headNotes": null,
+    "indices": null,
+    "judgement": {
+        "date": null,
+        "year": null,
+        "month": null,
+        "day": null
+    },
+    "judges": [],
+    "lawReportsCitations": [],
+    "natureOfProceedings": null,
+    "mediaNeutralCitation": null,
+    "presidingJudge": null,
+    "partiesOfSuit": {
+        "Plaintiff/Appellant": [],
+        "Defendant/Respondent": []
+    },
+    "statutesReferredTo": [],
+    "title": {
+        "long": "",
+        "short": ""
+    }
+}
