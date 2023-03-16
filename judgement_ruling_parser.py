@@ -49,6 +49,24 @@ def log_info(file_name, metadata_file_name, fields_with_error):
     with open(info_log, "a") as f:
         f.write(log_entry)
 
+#Default function to parse pdf and write text to file
+def write_to_file(file_path):
+    file = file_path
+    pdf = PdfFileReader(file)
+
+    with open("output_path.extension", "w") as f:
+        for page in range(pdf.numPages):
+            page_obj = pdf.getPage(page)
+
+            try:
+                text = page_obj.extract_text()
+            except Exception as e:
+                log_error(file_path, e)
+            else:
+                f.write(text)
+        f.close()             
+
+
 # define helper functions to handle PDF parsing and output files generation
 def generate_metadata(file_path: str):
     """
