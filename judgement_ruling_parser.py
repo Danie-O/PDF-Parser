@@ -3,10 +3,11 @@ import re
 import json
 from PyPDF2 import PdfFileReader
 from pathlib import Path
-# import textract
-# import pdfminer
+import textract
 import logging
 from datetime import datetime
+import subprocess as sp
+import ocrmypdf
 
 """
     A script for parsing pdf files of court cases and extracting data required to generate the following for each case file;
@@ -17,6 +18,7 @@ input_dir = "./input"
 output_dir = "./output"
 error_log = "./errors.log"
 info_log = "./errors.log"
+
 
 # set up loggers to handle errors and info about erroneous metadata files
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -48,6 +50,16 @@ def log_info(file_name, metadata_file_name, fields_with_error):
     log_entry = f"{now}: Metadata file '{metadata_file_name}' generated from '{file_name}' has the following errors: {error_fields_string}\n"
     with open(info_log, "a") as f:
         f.write(log_entry)
+
+def ocr_scanned_file(file_path, new_file_path):
+    # converts a scanned pdf to full text and saves it to a new filepath
+    ocrmypdf.ocr(file_path, new_file_path, skip_text=True)
+
+    # output = sp.getoutput("ocrmypdf input.pdf output.pdf")
+    # if not re.search("PriorOcrFoundError: page already has text!",output):
+    # print("Uploaded scanned pdf")
+    # else:
+    #     print("Uploaded digital pdf")
 
 #Default function to parse pdf and write text to file
 def write_to_file(file_path):

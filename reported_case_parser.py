@@ -12,6 +12,7 @@ from datetime import datetime
     A script for parsing pdf files of court cases and extracting data required to generate the following for each case file;
     - a metadata.json file, a preview.md file, a technical.txt file, an error log file, an info log file
 """
+
 # define paths for the following; 
 input_dir = "./input"
 output_dir = "./output"
